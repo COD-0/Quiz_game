@@ -22,7 +22,7 @@ Quiz game/
 2. Open a terminal and navigate to the Quiz_game folder.
 3. Run the game with:
 
-```Sh
+```Bash
 python Quiz_game.py
 ```
 
