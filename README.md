@@ -6,15 +6,17 @@ A simple Python game that asks you two questions and shows your final score at t
 
 ## 📂 Project Structure
 
+```text
 Quiz game/
  ├Quiz_game.py   # Main game file
  └README.md      # Project documentation
+```
 
  ## 🌠 Features
 
--Ask two questions to the player
--Calculates and display the final score
--Simple and easy-to-play
+- Ask two questions to the player
+- Calculates and display the final score
+- Simple and easy-to-play
 
 ## ▶️ How to Run
 
@@ -28,11 +30,11 @@ python Quiz_game.py
 
 ## 🚀 Future Improvements
 
--Add more questions and categories to make the game longer and more fun
--implement different difficulty levels(easy,normal,hard,insane)
--Add a graphical user interface(GUI)
--Enable online multiplayer mode
--Add voice input support(answer questions by speaking instead of typing)
+- Add more questions and categories to make the game longer and more fun
+- implement different difficulty levels(easy,normal,hard,insane)
+- Add a graphical user interface(GUI)
+- Enable online multiplayer mode
+- Add voice input support(answer questions by speaking instead of typing)
 
 ## License
 
